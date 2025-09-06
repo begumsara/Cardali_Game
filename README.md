@@ -64,9 +64,9 @@ Assets/
 
 ## 🎥 Gameplay Video
 
-👉 Watch the gameplay demonstration here:  
+👉 Click the link for a gameplay demonstration:  
 
-![Gameplay Video](https://drive.google.com/file/d/17maEGtOgEwR833cvPPYtfmVKK7ige4vb/view?usp=drive_link)
+![Click the link](https://drive.google.com/file/d/17maEGtOgEwR833cvPPYtfmVKK7ige4vb/view?usp=drive_link)
 
 ---
 
@@ -75,13 +75,11 @@ Assets/
 Some screenshots here to showcase the menu, gameplay, and win/lose screens._  
 
 screenshots:  
-![Main Menu Screenshot](docs/screenshots/menu.png)  
-![Gameplay Screenshot](docs/screenshots/gameplay.png) 
-![Main Menu Screenshot](https://drive.google.com/file/d/17wQRKnye0CzJ1lwMQqcNEK5IM2zQKXcn/view?usp=drive_link)  
-![Gameplay Screenshot](https://drive.google.com/file/d/107hUb_YSbXmvI18DCq_8zQkaaVu5bW3-/view?usp=sharing)  
-![Win Screenshot](https://drive.google.com/file/d/1FEGL4C5oLp8PVkNZnghnvKqmLaSRcVJm/view?usp=sharing)  
-![Lose Screenshot](https://drive.google.com/file/d/1Zq2v6_E98fnxo1L9GM6w4vJBqeRC1ZK7/view?usp=sharing)  
-![End Trigger Screenshot](https://drive.google.com/file/d/1SJ1nCvbUYoea4b3LPT4dke0WUP0Tqz7O/view?usp=sharing)  
+![Main Menu Screenshot](docs/screenshots/MainMenu.PNG)  
+![Gameplay Screenshot](docs/screenshots/cardaliShoot.PNG) 
+![Win Screenshot](docs/screenshots/win.PNG)   
+![Lose Screenshot](docs/screenshots/lose.PNG)  
+![End Trigger Screenshot](docs/screenshots/cardaliWithBoss.PNG)   
 
 ---
 
