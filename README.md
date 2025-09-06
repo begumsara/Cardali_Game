@@ -66,7 +66,7 @@ Assets/
 
 👉 Click the link for a gameplay demonstration:  
 
-![Click the link](https://drive.google.com/file/d/17maEGtOgEwR833cvPPYtfmVKK7ige4vb/view?usp=drive_link)
+(https://drive.google.com/file/d/17maEGtOgEwR833cvPPYtfmVKK7ige4vb/view?usp=drive_link)
 
 ---
 
@@ -75,10 +75,15 @@ Assets/
 Some screenshots here to showcase the menu, gameplay, and win/lose screens._  
 
 screenshots:  
+
 ![Main Menu Screenshot](docs/screenshots/MainMenu.PNG)  
+
 ![Gameplay Screenshot](docs/screenshots/cardaliShoot.PNG) 
+
 ![Win Screenshot](docs/screenshots/win.PNG)   
+
 ![Lose Screenshot](docs/screenshots/lose.PNG)  
+
 ![End Trigger Screenshot](docs/screenshots/cardaliWithBoss.PNG)   
 
 ---
