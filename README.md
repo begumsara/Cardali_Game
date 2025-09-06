@@ -74,7 +74,7 @@ Assets/
 
 Some screenshots here to showcase the menu, gameplay, and win/lose screens._  
 
-screenshots:  
+Screenshots:  
 
 ![Main Menu Screenshot](docs/screenshots/MainMenu.PNG)  
 
