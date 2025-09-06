@@ -75,6 +75,8 @@ Assets/
 Some screenshots here to showcase the menu, gameplay, and win/lose screens._  
 
 screenshots:  
+![Main Menu Screenshot](docs/screenshots/menu.png)  
+![Gameplay Screenshot](docs/screenshots/gameplay.png) 
 ![Main Menu Screenshot](https://drive.google.com/file/d/17wQRKnye0CzJ1lwMQqcNEK5IM2zQKXcn/view?usp=drive_link)  
 ![Gameplay Screenshot](https://drive.google.com/file/d/107hUb_YSbXmvI18DCq_8zQkaaVu5bW3-/view?usp=sharing)  
 ![Win Screenshot](https://drive.google.com/file/d/1FEGL4C5oLp8PVkNZnghnvKqmLaSRcVJm/view?usp=sharing)  
